@@ -1,0 +1,5 @@
+2021-08-29 20:59:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 1.8.0_271 on LAZ-VN-L-M-2539 with PID 6973 (/Users/duy.nguyenthuykhan/Documents/microservices/microservices-demo/twitter-to-kafka-service/target/classes started by duy.nguyenthuykhan in /Users/duy.nguyenthuykhan/Documents/microservices/microservices-demo)
+2021-08-29 20:59:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-08-29 20:59:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.271 seconds (JVM running for 2.718)
+2021-08-29 20:59:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-08-29 20:59:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]

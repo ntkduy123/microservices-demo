@@ -7,7 +7,7 @@ spring:
                 git:
                     uri: https://github.com/ntkduy123/spring-cloud-config-server-repository.git
                     username: ntkduy123
-                    password: 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
+                    password: 1234
                     clone-on-start: true
         fail-fast: true
     security:

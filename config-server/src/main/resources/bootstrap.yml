@@ -7,10 +7,10 @@ spring:
                 git:
                     uri: https://github.com/ntkduy123/spring-cloud-config-server-repository.git
                     username: ntkduy123
-                    password: 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
+                    password: '{cipher}65a186824412a5ae0676a57125f2a32e5963619e06d909d96bf22877438e667afe1074dd545aa4a8e215efb42010a84081640dbb02a11139fd8af4b9c2931a0f'
                     clone-on-start: true
         fail-fast: true
     security:
         user:
             name: spring_cloud_user
-            password: springCloud_Pwd!
+            password: '{cipher}5f99000b6295c568a220df5206a56e51fe696570606428805a01a7108d68006550034248827088575e87912d12bde04a'

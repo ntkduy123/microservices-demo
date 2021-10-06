@@ -14,3 +14,6 @@ spring:
         user:
             name: spring_cloud_user
             password: '{cipher}5f99000b6295c568a220df5206a56e51fe696570606428805a01a7108d68006550034248827088575e87912d12bde04a'
+
+encrypt:
+    key: 'ntkduy123'
